@@ -1,0 +1,10 @@
+C:\Users\adrian\Desktop\Examen Alarma\Examen Alarma\obj\x86\Debug\Examen_Alarma.frmalarma.resources
+C:\Users\adrian\Desktop\Examen Alarma\Examen Alarma\obj\x86\Debug\Examen_Alarma.Properties.Resources.resources
+C:\Users\adrian\Desktop\Examen Alarma\Examen Alarma\obj\x86\Debug\Examen Alarma.csproj.GenerateResource.Cache
+C:\Users\adrian\Desktop\Examen Alarma\Examen Alarma\bin\Debug\Examen Alarma.exe
+C:\Users\adrian\Desktop\Examen Alarma\Examen Alarma\bin\Debug\Examen Alarma.pdb
+C:\Users\adrian\Desktop\Examen Alarma\Examen Alarma\obj\x86\Debug\Examen Alarma.exe
+C:\Users\adrian\Desktop\Examen Alarma\Examen Alarma\obj\x86\Debug\Examen Alarma.pdb
+C:\Users\adrian\Desktop\Examen Alarma\Examen Alarma\obj\x86\Debug\Examen Alarma.csprojResolveAssemblyReference.cache
+C:\Users\adrian\Desktop\Examen Alarma\Examen Alarma\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\adrian\Desktop\Examen Alarma\Examen Alarma\obj\x86\Debug\Examen Alarma.csproj.ResolveComReference.cache
